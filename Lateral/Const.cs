@@ -5,10 +5,6 @@ using System.Web;
 
 namespace Lateral
 {
-	public class Const
-	{
-	}
-
 	public enum CommentStatus
 	{
 		//エンジニアの回答待ち
